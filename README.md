@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true&theme=radical" />
 </div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">💡 Tech Stack 💡</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
@@ -12,7 +12,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<h3 align="center">💻 Tools 💻</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📮 Contact 📮</h3>
 <div align="center">
   <a href="leeyeen@gmail.com">
     <img
