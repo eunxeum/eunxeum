@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
 </div>
 
 <br>
