@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true" />
 </div>
 
 <h3 align="center">💡 Tech Stack 💡</h3>
