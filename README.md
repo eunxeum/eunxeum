@@ -3,14 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true&theme=radical" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-F7DF1E.svg?style=for-the-badge&logo=java&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
 </div>
 
