@@ -30,7 +30,7 @@
 <div align="center">
   <a href="leeyeen@gmail.com">
     <img
-      src="https://img.shields.io/badge/leeyeen@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/leeyeen@gmail.com-EA4335?style=for-the-badge&logo=gmailk&logoColor=white"/>&nbsp
   </a>
   <a href="https://blog.naver.com/eunxeum__">
     <img
