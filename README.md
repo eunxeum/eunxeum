@@ -1,6 +1,5 @@
 
 <div align="center">
-  <img width="800px" src="https://github.com/j-nary/j-nary/blob/master/logo_unscreen.gif" />
   <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true" />
 </div>
@@ -43,6 +42,3 @@
   </a>
 </div>
 
-<div>
-  <img src="http://mazandi.herokuapp.com/api?handle=&theme=warm"/>
-</div>
