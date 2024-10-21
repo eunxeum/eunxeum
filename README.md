@@ -1,15 +1,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=170&section=header&text=welcome!&fontSize=60&textBg=false&animation=fadeIn&descAlignY=50" width="100%"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true&text_color=a9a9a9&icon_color=a9a9a9&title_color=a9a9a9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true&text_color=a9a9a9&icon_color=a9a9a9&title_color=a9a9a9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true&text_color=ADD8E6&icon_color=ADD8E6&title_color=ADD8E6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true&text_color=ADD8E6&icon_color=ADD8E6&title_color=ADD8E6" />
 </div>
 
 <br>
 
-<div style="margin: 0 10%;" align="center">
+<div style="margin: 0 20%;" align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=ffffff&hide_border=true&line=a9a9a9&color=a9a9a9" width=85% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=ffffff&hide_border=true&line=ADD8E6&color=ADD8E6" width=90% />
   </a>
 </div>
 
