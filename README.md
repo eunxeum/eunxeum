@@ -9,10 +9,11 @@
 
 <div style="margin: 0 20%;" align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=ffffff&hide_border=true&line=00264b&color=00264b" width=90% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=ffffff&hide_border=true&line=00264b&color=00264b" width=100% />
   </a>
 </div>
 
+<br>
 
 <h3 align="center">💡 Tech Stack 💡</h3>
 <div align="center">
