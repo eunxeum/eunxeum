@@ -1,3 +1,4 @@
+![header](https://eunxeum.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true" />
