@@ -47,7 +47,7 @@
 
 <div style="margin: 0 10%;" align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=FFF5ee&hide_border=true&line=ffffff&color=000000" width=80% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=ffffff&hide_border=true&line=a9a9a9&color=a9a9a9" width=90% />
   </a>
 </div>
 
