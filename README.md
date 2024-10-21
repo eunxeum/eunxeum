@@ -2,14 +2,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true&text_color=a9a9a9&icon_color=a9a9a9&title_color=a9a9a9" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true&text_color=a9a9a9&icon_color=a9a9a9&title_color=a9a9a9" />
 </div>
 
 <br>
 
 <div style="margin: 0 10%;" align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=ffffff&hide_border=true&line=a9a9a9&color=a9a9a9" width=90% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=ffffff&hide_border=true&line=a9a9a9&color=a9a9a9" width=85% />
   </a>
 </div>
 
