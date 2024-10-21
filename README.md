@@ -45,11 +45,12 @@
 
 <br>
 
-<div style="margin: 0 10%;" align="center">
+<div style="margin: 0 10%; text-align: center;">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=007BFF&color=000000" width=94% />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=007BFF&color=000000" width="90%" style="border: 1px solid black; border-radius: 10px; " />
   </a>
 </div>
+
 
 <br><br>
 
