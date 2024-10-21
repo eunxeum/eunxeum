@@ -51,6 +51,6 @@
   </a>
 </div>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=130&section=footer&fontSize=0" width="100%"/>
