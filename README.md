@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=100&section=header&text=Welcome!&fontSize=40&fontAlign=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true" />
@@ -46,4 +46,4 @@
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=5:ADD8E6,100:DDA0DD&height=80&section=footer&text=Thank%20You!&fontSize=30&fontAlign=50&fontAlignY=50&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=100&section=footer&fontSize=0" width="100%"/>
