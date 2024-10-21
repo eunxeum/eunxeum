@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=200&section=header&text=Welcome!&fontSize=40&fontAlign=50&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=200&section=header&text=welcome&fontSize=70&textBg=false&animation=fadeIn&descAlignY=50" width="100%"/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true" />
