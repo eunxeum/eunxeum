@@ -5,12 +5,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunxeum&hide=contribs,prs&show_icons=true" />
 </div>
 
-<div>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
-</div>
-
 <h3 align="center">💡 Tech Stack 💡</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
@@ -46,6 +40,14 @@
   <a href="https://www.instagram.com/eunxeum__">
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+  </a>
+</div>
+
+<br>
+
+<div style="margin: 0 10%;" align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=react-dark&bg_color=FFFFFF&hide_border=true&line=007BFF&color=000000" width=94% />
   </a>
 </div>
 
