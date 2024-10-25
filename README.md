@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=180&section=header&text=welcome!&fontSize=50&textBg=false&animation=fadeIn&descAlignY=50" width="100%"/>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23241B7A&title=hits&edge_flat=false"/></a>
-</p>
+<a href="https://hits.seeyoufarm.com">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunxeum%2Fhit-counter&count_bg=%23191B66&title_bg=%23CBCBCB&icon=&icon_color=%23000000&title=hits&edge_flat=false"/>
+</a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=eunxeum&show_icons=true&text_color=00264b&icon_color=00264b&title_color=00264b" />
