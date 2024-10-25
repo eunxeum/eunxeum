@@ -20,10 +20,10 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
 </div>
