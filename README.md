@@ -17,8 +17,9 @@
 
 <h3 align="center">💡 Tech Stack 💡</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/java-40BE46.svg?style=for-the-badge&logo=javat&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
 </div>
 
@@ -39,10 +40,10 @@
 
 <h3 align="center">📮 Contact 📮</h3>
 <div align="center">
-  <a href="leeyeen2222@gmail.com">
-    <img
-      src="https://img.shields.io/badge/leeyeen2222@gmail.com-EA4335?style=for-the-badge&logo=gmailk&logoColor=white"/>&nbsp
-  </a>
+   <a href="mailto:leeyeen2222@gmail.com">
+     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leeyeen2222@gmail.com"/>
+   </a>
+  
   <a href="https://blog.naver.com/eunxeum__">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
