@@ -49,7 +49,6 @@
    <a href="mailto:leeyeen2222@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leeyeen2222@gmail.com"/>
    </a>
-  
   <a href="https://blog.naver.com/eunxeum__">
     <img
       src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
@@ -62,4 +61,4 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=120&section=footer&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=150&section=footer&fontSize=0" width="100%"/>
