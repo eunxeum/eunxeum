@@ -49,15 +49,13 @@
 <h3 align="center">📮 Contact 📮</h3>
 <div align="center">
    <a href="mailto:leeyeen2222@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leeyeen2222@gmail.com"/>
+     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=leeyeen2222@gmail.com"/>&nbsp
    </a>
   <a href="https://blog.naver.com/eunxeum__">
-    <img
-      src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
   <a href="https://www.instagram.com/eunxeum__">
-    <img
-      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>&nbsp
   </a>
 </div>
 
