@@ -53,12 +53,10 @@
    </a>&nbsp
   <a href="https://blog.naver.com/eunxeum__">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a> &nbsp
+  </a>&nbsp
   <a href="https://www.instagram.com/eunxeum__">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp
 </div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=150&section=footer&fontSize=0" width="100%"/>
