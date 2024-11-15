@@ -16,14 +16,6 @@
 
 <br>
 
-<div style="margin: 0 20%;" align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=eunxeum&theme=high-contrast&bg_color=ffffff&hide_border=true&line=00264b&color=00264b" width=88% />
-  </a>
-</div>
-
-<br>
-
 <h3 align="center">💡 Tech Stack 💡</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
