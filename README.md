@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/vue.js-20232a.svg?style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/nginx-008000?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
 </div>
 
 <br>
