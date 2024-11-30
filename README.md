@@ -42,7 +42,7 @@
 <h3 align="center">📮 Contact 📮</h3>
 <div align="center">
 <a href="mailto:leeyeen2222@gmail.com">
-  <img src="https://img.shields.io/badge/leeyeen2222@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
+  <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge"/>
 </a>&nbsp
   <a href="https://blog.naver.com/eunxeum__" target="_blank">
     <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
