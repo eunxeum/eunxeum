@@ -1,11 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=5:ADD8E6,100:DDA0DD&height=180&section=header&text=welcome!&fontSize=50&textBg=false&animation=fadeIn&descAlignY=50" width="100%"/>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunxeum&count_bg=%23241B7A&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-</p>
-
 <br>
 
 <div align="center">
